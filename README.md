@@ -1,4 +1,4 @@
-# Easy-Math
+# :boom: Easy Maths :boom:
 
 ¡Bienvenido/a a Easy-Math! Este repositorio está dedicado a recopilar y organizar diferentes proyectos relacionados con matemáticas. A continuación, encontrarás una breve descripción de cada uno de los repositorios disponibles, junto con enlaces directos a ellos.
 
